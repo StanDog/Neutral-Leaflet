@@ -491,7 +491,7 @@ path.leaflet-interactive:focus:not(:focus-visible) {
 }
 
 .leaflet-attribution-flag {
-	display: inline !important;
+	display: none !important;
 	vertical-align: baseline !important;
 	width: 1em;
 	height: 0.6669em;
